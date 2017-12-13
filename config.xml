@@ -13,7 +13,6 @@
 
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
-	<gap:plugin name="cordova-plugin-splashscreen" source="npm"  />
 	
 	<allow-navigation href="*" />
 	<icon src="icon.png" />
